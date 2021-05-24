@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2001: unresolved external symbol __imp__calloc_dbg
+D:\Programming\SimpleStudio\x64\Release\SimpleStudio.exe : fatal error LNK1120: 1 unresolved externals
